@@ -4,4 +4,4 @@ log/*.log
 *.log
 tmp/
 doc/
-
+.idea
